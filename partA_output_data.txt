@@ -1,0 +1,32 @@
+Country      Percentage of Vaccinations
+---------------------------------------
+Lithuania           32.70% 
+Italy               32.60% 
+Portugal            29.20% 
+Hungary             28.50% 
+Malta               28.30% 
+Poland              27.80% 
+France              27.60% 
+Sweden              21.40% 
+Denmark             19.80% 
+Spain               15.70% 
+Iceland             15.40% 
+Greece              15.30% 
+Liechtenstein       14.90% 
+Romania             14.60% 
+Cyprus              14.10% 
+Austria             14.00% 
+Estonia             13.90% 
+Luxembourg          13.80% 
+Slovenia            13.30% 
+Slovakia            12.90% 
+Belgium             12.60% 
+Finland             12.00% 
+Germany             11.20% 
+Ireland             10.70% 
+Netherlands         10.70% 
+Czechia             10.40% 
+Norway              10.20% 
+Croatia              7.80% 
+Bulgaria             7.20% 
+Latvia               5.70% 
